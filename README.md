@@ -25,6 +25,7 @@ O backend está disponível aqui: [Repositório do backend](https://github.com/m
 
 ```bash
 git clone https://github.com/migueldev1/user-registration-ui
+cd user-registration-ui
 ```
 
 2. Instale as dependências:
