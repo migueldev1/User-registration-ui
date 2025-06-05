@@ -38,13 +38,8 @@ npm install
 ```ini
 VITE_API_URL=http://localhost:3000
 ```
-4. Gere o cliente do prisma:
 
-```bash
-npx prisma generate
-```
-
-Inicie o servidor:
+4. Inicie o servidor:
 
 ```bash
 npm run dev
