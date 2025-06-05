@@ -45,4 +45,4 @@ VITE_API_URL=http://localhost:3000
 npm run dev
 ```
 
-A API estará rodando em http://localhost:3000
+O frontend estará disponível em http://localhost:5173, e a API deve estar rodando em http://localhost:3000.
